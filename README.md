@@ -1,6 +1,32 @@
 # 🌤️ Weather LLM Assistant
 
-An AI-powered weather assistant built with Streamlit, LangChain, and Google Gemini.
+An AI-powered weather assistant built with Streamlit, LangChain and Google Gemini.
+
+---
+
+### Weather LLM Interface
+
+Search any city worldwide to get real-time weather data, with quick stats for temperature, humidity, wind speed, and current conditions displayed in a clean card layout.
+
+
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/00981fe1-6f86-4836-a615-56e3d5c33068" />
+
+---
+### AI Weather Report
+
+Gemini generates a detailed, human-readable travel and planning advisory based on the live weather data — covering current conditions, what to expect, and practical recommendations.
+
+<img width="1600" height="783" alt="image" src="https://github.com/user-attachments/assets/8ade8c7a-a5ab-401b-94c2-d7685227a776" />
+
+---
+### Detailed Information
+
+A complete breakdown of raw weather data including location, atmospheric conditions (pressure, cloud cover, visibility), temperature details, wind direction/speed, and sunrise/sunset times.
+
+<img width="1362" height="313" alt="image" src="https://github.com/user-attachments/assets/f5519007-1042-45a7-9be1-c9160a762cee" />
+
+
+
 
 ## 🎯 Quick Start
 
